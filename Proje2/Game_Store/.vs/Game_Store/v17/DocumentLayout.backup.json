@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\game_store\\form_game_sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|solutionrelative:game_store\\form_game_sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|c:\\users\\gorke\\source\\repos\\proje2\\game_store\\game_store\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|solutionrelative:game_store\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\game_store\\form_game_sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|solutionrelative:game_store\\form_game_sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\game_store\\form_users_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|solutionrelative:game_store\\form_users_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\game_store\\form_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|solutionrelative:game_store\\form_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\game_store\\form_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|solutionrelative:game_store\\form_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\game_store\\form_users_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC43CB5-0313-4E79-9E21-ACE40135D5EE}|Game_Store\\Game_Store.csproj|solutionrelative:game_store\\form_users_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Game_Store\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\ClassDiagram1.cd*",
+              "RelativeToolTip": "Game_Store\\ClassDiagram1.cd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-05-08T16:24:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Game_Sale.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Game_Sale.cs",
+              "RelativeDocumentMoniker": "Game_Store\\Form_Game_Sale.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Game_Sale.cs",
+              "RelativeToolTip": "Game_Store\\Form_Game_Sale.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAYwM8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T22:33:16.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Game_Sale.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Game_Sale.cs",
+              "RelativeDocumentMoniker": "Game_Store\\Form_Game_Sale.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Game_Sale.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Game_Store\\Form_Game_Sale.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:12:47.507Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_Register.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Register.cs",
+              "RelativeDocumentMoniker": "Game_Store\\Form_Register.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Register.cs",
+              "RelativeToolTip": "Game_Store\\Form_Register.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwI8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:38:18.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_Register.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Register.cs",
+              "RelativeDocumentMoniker": "Game_Store\\Form_Register.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Register.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Game_Store\\Form_Register.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:29:30.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_Users_Login.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Users_Login.cs",
+              "RelativeDocumentMoniker": "Game_Store\\Form_Users_Login.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Users_Login.cs",
+              "RelativeToolTip": "Game_Store\\Form_Users_Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T15:25:02.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Users_Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Users_Login.cs",
+              "RelativeDocumentMoniker": "Game_Store\\Form_Users_Login.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Proje2\\Game_Store\\Game_Store\\Form_Users_Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Game_Store\\Form_Users_Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:37:07.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
